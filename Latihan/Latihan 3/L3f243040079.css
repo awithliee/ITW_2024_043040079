@@ -1,0 +1,51 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    height: 60%;
+    border: 1px solid black;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+
+.header, .image, .footer, h3 {
+    align-items: center;
+    text-align: center;
+}
+
+.header {
+    background-color:darkblue;
+    color:red;
+    padding-top: 2px;
+
+p {
+    text-indent: 20px;
+    margin-left: 5px;
+}
+
+.footer {
+    background-color:darkblue;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 2px;
+}
+
+img {
+    align-items: center;
+    width: 250px;
+}
+h1 i{
+    color:white;
+}
+
+ h3 {
+    color: red;
+}
+h3 b {
+    color: white;
+}
