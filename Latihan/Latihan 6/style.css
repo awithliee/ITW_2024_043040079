@@ -143,7 +143,6 @@ transform-origin:0.0 ;
            align-items: center;
            z-index: -2;
            background-color: blue;
-           opacity: 0.8;
            transform: translateX(100%);
            transition: all 1s;
            opacity: 0;
